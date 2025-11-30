@@ -1,3 +1,6 @@
 "use client";
 
-export * from "@material-tailwind/react"
+export {
+    Navbar,
+Typography
+} from "@material-tailwind/react"
